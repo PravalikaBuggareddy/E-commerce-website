@@ -1,2 +1,2 @@
 # E-commerce-website
-PHP, MYSQL are used
+PHP, MYSQL were used
